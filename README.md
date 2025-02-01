@@ -20,15 +20,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vegadabhi&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=vegadabhi&show_icons=true&theme=ocean" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vegadabhi&theme=radical" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vegadabhi&theme=ocean" />
     </td>
   </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vegadabhi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vegadabhi&layout=compact&theme=ocean)
 
 ---
 
